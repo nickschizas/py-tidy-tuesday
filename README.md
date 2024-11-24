@@ -1,2 +1,4 @@
-# py-tidy-tuesday
-play around with tidy tuesday datasets
+# Tidy Tuesday
+*... but with python*
+
+[rfordatascience official repo](https://github.com/rfordatascience/tidytuesday)
